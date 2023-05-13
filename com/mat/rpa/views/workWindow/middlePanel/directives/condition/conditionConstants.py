@@ -1,0 +1,16 @@
+# -*- coding:utf-8 -*-
+class ConditionConstants():
+    ifConditionDirective = "ifConditionDirective"
+    ifMultiConditionDirective = "ifMultiConditionDirective"
+    ifWebPageContainDirective = "ifWebPageContainDirective"
+    ifWebElementVisibleDirective = "ifWebElementVisibleDirective"
+    ifWindowExistsDirective = "ifWindowExistsDirective"
+    ifWindowContainsDirective = "ifWindowContainsDirective"
+    ifImageExistsDirective = "ifImageExistsDirective"
+    ifTextExistsOnScreenOCRDirective = "ifTextExistsOnScreenOCRDirective"
+    ifFileExistsDirective = "ifFileExistsDirective"
+    ifFolderExistsDirective = "ifFolderExistsDirective"
+    elseIfDirective = "elseIfDirective"
+    elseIfMultiConditionDirective = "elseIfMultiConditionDirective"
+    elseDirective = "elseDirective"
+    endIfDirective = "endIfDirective"
